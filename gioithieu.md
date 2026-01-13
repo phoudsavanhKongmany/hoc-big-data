@@ -7,7 +7,7 @@
 
 ## Thông tin liên hệ
 - 📧 Email: [phoudsavanhkongmany1@gmail.com](mailto:phoudsavanhkongmany1@gmail.com)
-- 🐙 GitHub: https://github.com/phoudsavanhKongmany
+- 🐙 GitHub: https://github.com/phoudsavanhKongmany(https://github.com/phoudsavanhKongmany/hoc-big-data.git)
 - 📋 Trello: [My Big Data Board](https://trello.com/b/y5qkq88Y/my-trello-board)
 
 
